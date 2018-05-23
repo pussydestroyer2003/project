@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\bin\Debug\ProjectZ.exe.config
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\bin\Debug\ProjectZ.exe
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\bin\Debug\ProjectZ.pdb
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.Avt.resources
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.Company.resources
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.Properties.Resources.resources
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.CreateUser.resources
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.exe
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.pdb
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.Prom.resources
+C:\Users\ASUS\source\repos\ProjectZ\ProjectZ\obj\Debug\ProjectZ.comuse.resources
